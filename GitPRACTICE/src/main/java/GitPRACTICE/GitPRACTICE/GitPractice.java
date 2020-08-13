@@ -12,6 +12,8 @@ public class GitPractice {
 		String [] data = count.split("");
 		
 		System.out.println(data.length);
+		
+		sysout.tem.out
 
 	}
 
